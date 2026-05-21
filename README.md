@@ -1,5 +1,4 @@
-# cute-fetch-app
-# Cute API Project  
+
 # Cute API Project
 
 A simple and cute web application built using HTML, CSS, and JavaScript that fetches data from an API using the Fetch API.
